@@ -2,7 +2,7 @@
 
 * Note: This code is unaudited and a work of a midnight conversation. If you are going to copy-paste, please take a second to consider the implications of every single line of code.
 
-![Mirrored Derivatives]()
+![Mirrored Derivatives](https://imgur.com/a/fEd5jYa.png)
 
 ## Foreword
 
